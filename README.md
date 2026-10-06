@@ -43,11 +43,11 @@ I have played this game till gold level but now for this assignment i spent some
 
 
 <p>
-<img src="Docs/Game2/Drive.png" width="240">
-<img src="Docs/Game2/Fail.png" width="240">
-<img src="Docs/Game2/Garrage.png" width="240">
-<img src="Docs/Game2/Move.png" width="240">
-<img src="Docs/Game2/Options.png" width="240">
+<img src="Docs/Game2/Drive.jpeg" width="240">
+<img src="Docs/Game2/Fail.jpeg" width="240">
+<img src="Docs/Game2/Garrage.jpeg" width="240">
+<img src="Docs/Game2/Move.jpeg" width="240">
+<img src="Docs/Game2/Options.jpeg" width="240">
 
 </p>
 
